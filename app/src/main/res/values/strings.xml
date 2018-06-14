@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">Dnd5eTurkce</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+
+    <string name="placeholder_for_adds">PLACEHOLDER FOR ADDS</string>
+
+    <string name="title_items">Items</string>
+    <string name="title_races">Races</string>
+    <string name="title_monsters">Monsters</string>
+    <!--<string name="title_background">Background</string>-->
+    <!--<string name="title_feats">Feats</string>-->
+    <string name="title_spells">Spells</string>
+    <string name="title_class">Class</string>
 </resources>

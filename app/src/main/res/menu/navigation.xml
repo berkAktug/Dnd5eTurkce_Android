@@ -1,19 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item
-        android:id="@+id/navigation_home"
-        android:icon="@drawable/ic_home_black_24dp"
-        android:title="@string/title_home" />
 
     <item
-        android:id="@+id/navigation_dashboard"
-        android:icon="@drawable/ic_dashboard_black_24dp"
-        android:title="@string/title_dashboard" />
+        android:id="@+id/navigation_items"
+        android:icon="@drawable/item_sword"
+        android:title="@string/title_items" />
 
     <item
-        android:id="@+id/navigation_notifications"
-        android:icon="@drawable/ic_notifications_black_24dp"
-        android:title="@string/title_notifications" />
+        android:id="@+id/navigation_races"
+        android:icon="@drawable/race_class_elf"
+        android:title="@string/title_races" />
+
+    <item
+        android:id="@+id/navigation_monsters"
+        android:icon="@drawable/monster_dragon"
+        android:title="@string/title_monsters" />
+
+    <item
+        android:id="@+id/navigation_spells"
+        android:icon="@drawable/wizard_hat"
+        android:title="@string/title_spells" />
+
+    <item
+        android:id="@+id/navigation_class"
+        android:icon="@drawable/background_house"
+        android:title="@string/title_class" />
+
+    <!--<item-->
+        <!--android:id="@+id/navigation_feats"-->
+        <!--android:icon="@drawable/feats_book"-->
+        <!--android:title="@string/title_feats" />-->
+
 
 </menu>
